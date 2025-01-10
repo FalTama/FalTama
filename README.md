@@ -29,3 +29,6 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🎮 Discord Status
+<img src="https://lanyard.cnrad.dev/api/485088844451151889?theme=dark&hideDiscrim=true&borderRadius=30px" />
