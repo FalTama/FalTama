@@ -8,9 +8,6 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FalTama&icon=0&color=2)](https://visitcount.itsvg.in)
 
@@ -21,7 +18,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🎮 Discord Status
-<img src="https://lanyard.cnrad.dev/api/485088844451151889?theme=dark&hideDiscrim=true&borderRadius=30px&bg=transparent" />
+<img src="https://lanyard.cnrad.dev/api/485088844451151889?theme=dark&hideDiscrim=true&borderRadius=30px&bg=transparent" width="250" />
 
 ---
 
